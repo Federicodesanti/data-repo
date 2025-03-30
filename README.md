@@ -1,2 +1,3 @@
-# data-repo
-Dataset for "Managing Connection Queues in Distribution Networks with Flexible Connection Agreements"
+# Dataset for "Managing Connection Queues in Distribution Networks with Flexible Connection Agreements"
+The data provided here was used in the research for the paper "_Managing Connection Queues in Distribution Networks with Flexible Connection Agreements._" It includes five .xlsx files. From the original dataset P1200_households_kW_hourly.csv, three dimensionless profiles have been obtained as representative for low, medium and high consumption patterns (the profiles have been normalized in per unit). The original dataset is obtained from the open web tool StROBe (Stochastic Residential Occupancy Behaviour). 
+Finally, the generation profile for PVs was obtained from PVGIS web application. 
